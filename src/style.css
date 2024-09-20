@@ -1,0 +1,22 @@
+body{
+  background-color:White;	
+}
+h1{
+  color:DarkGray;
+     text-align:center;
+}
+.firstPic{
+   display:flex;
+    justify-content:center;
+}
+p{
+  width="500px"
+  color:DarkGray;
+   border:3px solid Black;
+}
+.treePic{
+  display:flex;
+  justify-content:space-around;
+  border:2px solid Black;
+  padding:2px;
+}
